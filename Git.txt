@@ -1,3 +1,4 @@
 Inicio da aula de git
 Continuição da aula de git
 Testando o git
+Terceira alteração do arquivo
